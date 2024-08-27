@@ -164,4 +164,4 @@ Para evitar custos, exclua todos os recursos criados:
 
 ## Conclusão
 Este projeto ilustra como construir uma API CRUD simples usando a infraestrutura serverless da AWS, envolvendo vários serviços. Ao seguir as etapas, você pode gerenciar facilmente os dados com DynamoDB e funções Lambda, integrando tudo por meio do API Gateway.
-```
+
